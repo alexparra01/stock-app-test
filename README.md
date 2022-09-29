@@ -2,9 +2,6 @@
 
 ## Architecture
 The architecture implemented in the project is [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html "Clean Architecture") which is divided in three layouts:
-    - Data
-    - Domain
-    - Presentation
 
 - Data layout -> This layout is where the external dependencies are located like remote data source which is in charge of calling external
   endpoints
