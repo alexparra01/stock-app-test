@@ -37,5 +37,5 @@ For unit testing:
 
 ## Additional Information
 
-The app does not any kind of listener or touch part. It is showing the portfolio using recyclerview and on the item level the app use
+The app does not have any kind of listener or touch part. It is showing the portfolio by using recyclerview and on the item level the app uses
 card view in order to have better visualization of the list.
