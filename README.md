@@ -1,6 +1,6 @@
 # Stock Test App
 
-##Architecture
+## Architecture
 The architecture implemented in the project is Clean Architecture which is divided in three layouts:
     - Data
     - Domain
