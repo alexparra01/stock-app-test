@@ -32,6 +32,10 @@ Build #AI-212.5712.43.2112.8609683, built on May 19, 2022
 For unit testing:
 - Mockito
 
+## Implementation time
+
+- I spent 3 and half hours on the app
+
 ## Additional Information
 
 The app does not have any kind of listener or touch part. It is showing the portfolio by using recyclerview and on the item level the app uses
