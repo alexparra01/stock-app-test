@@ -1,6 +1,6 @@
 # Stock Test App
 
-# Architecture
+##Architecture
 The architecture implemented in the project is Clean Architecture which is divided in three layouts:
     - Data
     - Domain
@@ -11,15 +11,15 @@ The architecture implemented in the project is Clean Architecture which is divid
 - Domain layout holds models, repository contract and use cases(interactors) when they manipulate business logic
 - Presentation layout shows 
 
-# Trade Offs
+## Trade Offs
 
 - I didn't have any particular trade off
 
-# Run Project
+## Run Project
 
 The project runs by using Android Studio 
 
-# Libraries
+## Libraries
 
 - Retrofit: This library is mostly to make http calls
 - Moshi: Json parser
@@ -27,4 +27,4 @@ The project runs by using Android Studio
 - Navigation
 - Androidx life cycle libraries for coroutines
 
-# Additional Information
+## Additional Information
